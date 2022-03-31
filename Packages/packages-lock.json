@@ -1,5 +1,11 @@
 {
   "dependencies": {
+    "com.ambrosia.eventbus": {
+      "version": "file:com.ambrosia.eventbus",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.collab-proxy": {
       "version": "1.7.1",
       "depth": 0,
