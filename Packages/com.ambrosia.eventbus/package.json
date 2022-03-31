@@ -1,6 +1,6 @@
 {
-  "name": "com.ambrosia.eventbus",
-  "version": "0.0.1",
-  "displayName": "Ambrosia.EventBus",
-  "description": "Generic EventBus for Unity."
+	"name": "com.ambrosia.eventbus",
+	"version": "1.0.0",
+	"displayName": "Ambrosia.EventBus",
+	"description": "Generic EventBus for Unity."
 }
